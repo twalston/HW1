@@ -1,0 +1,82 @@
+header,nav,section,aside,footer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: gray;
+}
+header{
+    background-color:rgb(187, 179, 179);
+    height:auto;
+    width:1360px;
+    text-align: center;
+    margin-left: 47px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+nav{   
+    background-color:rgb(187, 179, 179);
+    height:auto;
+    width:1360px;
+    text-align: center;
+    margin-left: 47px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+section{
+    background-color:rgb(187, 179, 179);
+    height:360px;
+    width:800px;
+    text-align: center;
+    margin-left:50px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+article{
+    height: 300px;
+    margin-top: 50px;
+    padding-top: 20px;
+    background-color: rgb(88, 85, 85);
+}
+aside{
+    background-color:rgb(187, 179, 179);
+    height:360px;
+    width:500px;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    float: right;
+}
+footer{    
+    background-color:rgb(187, 179, 179);
+    height:auto;
+    width:1360px;
+    text-align: center;
+    margin-left: 47px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+}
+.clear{
+    clear: both;
+}
+.h1class{
+    background-color:rgb(187, 179, 179);
+    height: 75px;
+    width: 675px;
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 15px;
+}
+.pclass{
+    background-color:rgb(187, 179, 179);
+    height: 75px;
+    width: 675px;
+    margin: auto;
+    text-align: center;
+}
